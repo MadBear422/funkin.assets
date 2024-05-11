@@ -4,6 +4,9 @@
   "assetPath": "characters/gfCar",
   "startingAnimation": "danceRight",
   "cameraOffsets": [0, -200],
+  "pixelIcon": {
+    "id": "pixel"
+  },
   "animations": [
     {
       "name": "danceLeft",

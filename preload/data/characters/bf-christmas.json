@@ -6,6 +6,9 @@
   "healthIcon": {
     "id": "bf"
   },
+  "pixelIcon": {
+    "id": "bf"
+  },
   "renderType": "multisparrow",
   "singTime": 8.0,
   "animations": [

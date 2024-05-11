@@ -18,6 +18,9 @@
     "isPixel": false,
     "scale": 1
   },
+  "pixelIcon": {
+    "id": "tankmen"
+  },
   "animations": [
     {
       "flipY": false,
